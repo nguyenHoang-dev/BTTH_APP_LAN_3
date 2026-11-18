@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.appointments.app-debug-30:\\drawable_ic_logo_bg.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.appointments.app-main-32:\\drawable\\ic_logo_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.appointments.app-debug-30:\\drawable_bg_badge_reminder_off.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.appointments.app-main-32:\\drawable\\bg_badge_reminder_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.appointments.app-debug-30:\\layout_activity_appointment_detail.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.appointments.app-main-32:\\layout\\activity_appointment_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.appointments.app-debug-30:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.appointments.app-main-32:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.appointments.app-debug-30:\\layout_activity_add_appointment.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.appointments.app-main-32:\\layout\\activity_add_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.appointments.app-debug-30:\\drawable_bg_badge_date.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.appointments.app-main-32:\\drawable\\bg_badge_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.appointments.app-debug-30:\\drawable_bg_stats.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.appointments.app-main-32:\\drawable\\bg_stats.xml"
+    },
+    {
+        "merged": "com.example.appointments.app-debug-30:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.appointments.app-main-32:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.appointments.app-debug-30:\\drawable_bg_badge_reminder_on.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.appointments.app-main-32:\\drawable\\bg_badge_reminder_on.xml"
+    },
+    {
+        "merged": "com.example.appointments.app-debug-30:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.appointments.app-main-32:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.appointments.app-debug-30:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.appointments.app-main-32:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.appointments.app-debug-30:\\layout_item_appointment.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.appointments.app-main-32:\\layout\\item_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.appointments.app-debug-30:\\drawable_bg_card.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.appointments.app-main-32:\\drawable\\bg_card.xml"
+    }
+]
